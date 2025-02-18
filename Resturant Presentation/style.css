@@ -1,0 +1,645 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 𝙵𝙾𝙾𝙳 𝙼𝙴𝙽𝚄;
+}
+.main{
+    background-color: #161513;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.menu{
+    color: white;
+    font-size: 4em;
+    margin-top: 150px;
+    animation-duration: 2s;
+}
+.menu-text{
+    color: white;
+    animation-duration: 2s;
+}
+.btn{
+    margin-left: 100px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: 150px;
+    border: none;
+    color: black;
+}
+.btn:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.burger{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.image-1{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.box{
+    width: 550px;
+    height: 320px;
+    background-color: rgb(255, 145, 0);
+    border-top-left-radius: 160px;
+    border-bottom-left-radius: 160px;
+    margin-left: 850px;
+    margin-top: -300px;
+    animation-duration: 3s;
+}
+.image-2{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 240px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.box-2{
+    width: 550px;
+    height: 320px;
+    background-color:  rgb(255, 145, 0);
+    border-top-right-radius: 160px;
+    border-bottom-right-radius: 160px;
+    margin-top: 50px;
+    animation-duration: 3s;
+}
+.box-6{
+    width: 550px;
+    height: 320px;
+    background-color:  rgb(255, 145, 0);
+    border-top-right-radius: 160px;
+    border-bottom-right-radius: 160px;
+    margin-top: 50px;
+    animation-duration: 3s;
+}
+.image-6{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 240px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.button-2{
+    margin-left: 1000px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: -570px;
+    border: none;
+    color: black;
+}
+.btn:hover{
+    background-color: goldenrod;
+    color: black;
+} 
+.pizza{
+    color: white;
+    margin-left: 1000px;
+    margin-top: -225px;
+}
+
+.dessert{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.button-3{
+    margin-left: 1000px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: 80px;
+    border: none;
+    color: black;
+}
+.button-3:hover{
+    background-color: goldenrod;
+    color: black;
+} 
+.button-4{
+    margin-left: 100px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: 80px;
+    border: none;
+    color: black;
+}
+.button-4:hover{
+    background-color: goldenrod;
+    color: black;
+} 
+.button-5{
+    margin-left: 999px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: -550px;
+    border: none;
+    color: black;
+}
+.button-5:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.button-6{
+    margin-left: 100px;
+    background-color:  rgb(255, 145, 0);
+    margin-top: 80px;
+    border: none;
+    color: black;
+}
+.button-6:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.box-3{
+    width: 550px;
+    height: 320px;
+    background-color:  rgb(255, 145, 0);
+    border-top-right-radius: 160px;
+    border-bottom-right-radius: 160px;
+    margin-top: -310px;
+    animation-duration: 3s;
+}
+.image-3{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 240px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.box-4{
+    width: 550px;
+    height: 320px;
+    background-color: rgb(255, 145, 0);
+    border-top-left-radius: 160px;
+    border-bottom-left-radius: 160px;
+    margin-left: 850px;
+    margin-top: -300px;
+    animation-duration: 3s;
+}
+.box-5{
+    width: 550px;
+    height: 320px;
+    background-color: rgb(255, 145, 0);
+    border-top-left-radius: 160px;
+    border-bottom-left-radius: 160px;
+    margin-left: 850px;
+    margin-top: -300px;
+    animation-duration: 3s;
+}
+.image-5{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.box-7{
+    width: 550px;
+    height: 320px;
+    background-color: rgb(255, 145, 0);
+    border-top-left-radius: 160px;
+    border-bottom-left-radius: 160px;
+    margin-left: 850px;
+    margin-top: -300px;
+    animation-duration: 3s;
+}
+.image-7{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.image-4{
+    width: 300px;
+    height: 300px;
+    border-radius: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+    animation-duration: 2s;
+}
+.drinks{
+    color: white;
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+.deal-1{
+    color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.deal-2{
+    color: white;
+    margin-left: 1000px;
+    margin-top: -225px;
+}
+.deal-3{
+    color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+hr{
+    border: 1px solid white;
+    width: 1200px;
+    margin-left: 70px;
+}
+.hot-deals{
+    color: white;
+   
+    animation-duration: 3s;
+}
+.img-1{
+    width: 20%;
+    height: 20%;
+    margin-left: 80px;
+    margin-top: 80px;
+    border-radius: 5px;
+    animation-duration: 6s;
+}
+.hot-dogs{
+    color: white;
+    
+    margin-top: 30px;
+    margin-left: 100px;
+    animation-duration: 3s;
+}
+.doll-1{
+    color: white;
+   
+    margin-top: 30px;
+    margin-left: 110px;  
+    animation-duration: 2s;
+}
+.line-break-2{        
+    border-left: 2px solid white;      
+    transform: rotate(90deg); 
+    width: 270px;
+    position: relative;
+    left: 320px;
+    top: -299px;
+}
+.text{
+    color: white;
+    margin-left: 590px;
+    margin-top: -390px;
+}
+.text-2{
+    color: white;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.line-break-3{
+    border: 1px solid white;
+    width: 1200px;
+    margin-left: 70px;
+    margin-top: 250px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.footer-section {
+    flex: 1 1 200px;
+}
+
+.footer-section h3,
+.footer-section h4 {
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+    color: #f4a261;
+}
+
+.footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .main {
+        height: auto;  /* Make the main container's height flexible */
+    }
+
+    .menu {
+        font-size: 2.5em;  /* Adjust font size for small screens */
+        margin-top: 30px;
+    }
+
+    .menu-text {
+        font-size: 1.5em;  /* Adjust font size for small screens */
+    }
+
+    .btn {
+        margin-left: 35px;
+        margin-top: 20px;
+        width: 90%;  /* Make buttons full width */
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .footer-section {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-bottom {
+        font-size: 12px;
+    } 
+    .box{
+        width: 50%;
+        height: 230px;
+        margin-left: 385px;
+    }
+    .image-1{
+        width: 52%;
+        height: 22vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .burger{
+        margin-left: 10px;
+    }
+    .pizza, .drinks, .deal-2 {
+        font-size: 1em; /* Slightly smaller text size for medium screens */
+        text-align: center; /* Ensure the text is centered */
+        margin: 10px auto; /* Center the elements */
+    }
+    .button-2{
+        margin-top: -400px;
+    }
+    .pizza{
+        margin-top: -140px;
+    }
+    .box-2{
+        width: 50%;
+        height: 230px;
+        position: relative;
+        top: 350px;
+    }
+    .image-2{
+        width: 52%;
+        height: 22vh;
+        margin-left: 170px;
+        margin-top: 10px;
+    }
+    .button-4{
+        margin-top: 330px;
+    }
+    .dessert{
+        margin-left: 10px;
+    }
+    .box-4{
+        width: 50%;
+        height: 230px;
+        margin-left: 385px;
+        margin-top: 50px;
+    }
+    .image-4{
+        width: 52%;
+        height: 22vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .button-3{
+        margin-top: 65px;
+    }
+    .drinks{
+        margin-top: 50px;
+    }
+    .box-3{
+        width: 50%;
+        height: 230px;
+        margin-top: 50px;
+    }
+    .image-3{
+        width: 52%;
+        height: 22vh;
+        margin-left: 170px;
+        margin-top: 10px;
+    }
+    .deal-1{
+        margin-left: -10px;
+    }
+    .box-5{
+        width: 50%;
+        height: 230px;
+        margin-left: 385px;
+        margin-top: 50px;
+    }
+    .image-5{
+        width: 52%;
+        height: 22vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .deal-2{
+       position: relative;
+       margin-top: -120px;
+    }
+    .button-5{
+        margin-top: -400px;
+    }
+    .box-6{
+        width: 50%;
+        height: 230px;
+        position: relative;
+        top: 370px;
+    }
+    .image-6{
+        width: 52%;
+        height: 22vh;
+        margin-left: 170px;
+        margin-top: 10px;
+    }
+    .button-6{
+        margin-top: 340px;
+    }
+    .deal-3{
+        margin-left: -10px;
+    }
+    .box-7{
+        width: 50%;
+        height: 230px;
+        margin-left: 385px;
+        margin-top: 50px;
+    }
+    .image-7{
+        width: 52%;
+        height: 22vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .doll-1{
+        display: none;
+    }
+    .line-break-2{
+        margin-top: 110px;
+        margin-left: -100px;
+    }
+    .text{
+        margin-left: 400px;
+        font-size: 1em;
+        margin-top: -400px;
+    }
+    .text-2{
+       margin-left: 390px;
+    }
+    hr{
+        width: 80%;
+    }
+    .line-break-3{
+        width: 80%;
+    }
+}
+@media (max-width: 576px) {
+    .main {
+        height: auto;  /* Make the main container's height flexible */
+    }
+    .box{
+        width: 70%;
+        height: 210px;
+        margin-left: 200px;
+    }
+    .image-1{
+        width: 50%;
+        height: 23vh;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .burger{
+        margin-left: 20px;
+    }
+    .image-2{
+        width: 80%;
+        height: 23vh;
+        margin-left: 45px;
+    }
+    .image-1{
+        height: 20.5vh;
+    }
+    .box-4{
+        width: 50%;
+        height: 230px;
+        margin-left: 290px;
+        margin-top: 50px;
+    }
+    .image-4{
+        width: 70%;
+        height: 22vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .box-3{
+        width: 50%;
+        height: 230px;
+        margin-top: 50px;
+    }
+    .image-3{
+        width: 70%;
+        height: 22vh;
+        margin-left: 70px;
+        margin-top: 10px;
+    }
+    .box-5{
+        width: 50%;
+        height: 230px;
+        margin-left: 290px;
+        margin-top: 50px;
+    }
+    .image-5{
+         width: 70%;
+        height: 23vh;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .image-6{
+        width: 70%;
+        height: 23vh;
+        margin-left: 70px;
+        margin-top: 10px;
+    }
+    .box-7{
+        width: 50%;
+        height: 230px;
+        margin-left: 290px;
+        margin-top: 50px;
+    }
+    .image-7{
+        width: 65%;
+        height: 22vh;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    .line-break-2{
+        margin-top: 150px;
+        margin-left: -200px;
+    }
+    .text{
+        margin-left: 280px;
+        font-size: 0.8em;
+        margin-top: -400px;
+    }
+    .text-2{
+       margin-left: 280px;
+    }
+}
+@media (min-width: 1400px){
+    .main {
+        height: auto;  /* Make the main container's height flexible */
+    }      
+}
